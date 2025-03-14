@@ -39,6 +39,12 @@ Use the intuitive interface to execute commands, manage files, or navigate direc
 ⚠️ Disclaimer:
 This shell is designed strictly for educational and penetration testing purposes only. Misuse of this tool is illegal and unethical. Always obtain proper authorization before using it on any system.
 
+# LRX Minimal PHP Shell
+
+![LRX Shell Preview](./lrx-shell-preview.png)
+
+LRX Minimal PHP Shell - Ultra-compact, powerful, and undetectable PHP shell with advanced file management and command execution capabilities.
+
 
 📧 Support and Contributions:
 Feel free to report issues or contribute to this project. Your feedback and improvements are always welcome!
